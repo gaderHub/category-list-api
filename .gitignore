@@ -1,0 +1,6 @@
+
+# Ignore environment-specific files
+.env
+
+# Ignore dependencies (if using a package manager)
+node_modules/
